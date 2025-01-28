@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CFF76C&width=435&lines=Hi!+I'm+Ibrahim+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=CFF76C&width=435&lines=Hi!+I'm+Ibrahim+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on full stack development, including React, Node.js, and database integrations.  <br>👯 Looking to collaborate on innovative web applications, game development projects, or tools that improve accessibility in tech.  <br>💬 Ask me about front-end UI development, multiplayer game architecture, or creating smooth, user-friendly web experiences.  <br>⚡ Fun fact: I powerlift in my free time and sketch landscapes to unwind!  <br>

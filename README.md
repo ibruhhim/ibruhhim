@@ -16,7 +16,31 @@
 
 # 👇🏽 ᴀʙᴏᴜᴛ ᴍᴇ
 ---
-🔭 I’m currently working on full stack development, including React, Node.js, and database integrations.  <br>👯 Looking to collaborate on innovative web applications, game development projects, or tools that improve accessibility in tech.  <br>💬 Ask me about front-end UI development, multiplayer game architecture, or creating smooth, user-friendly web experiences.  <br>⚡ Fun fact: I powerlift in my free time and sketch landscapes to unwind!  <br>
+
+I’m a undergrad student who loves **full-stack development**, **game dev**, and building creative **software projects**. Currently, I’m working on improving my skills in **full-stack development**, diving into new frameworks, databases, and enhancing my coding expertise.
+
+## Hobbies & Interests
+
+When I'm not coding, I'm usually:
+
+- ♟️ **Chess**: Strategizing over a game and improving my skills.
+- 💪 **Fitness**: Focusing on my gym routines and staying active.
+- 🍔 **Foodie**: Exploring new food spots and trying out different cuisines.
+- 🎮 **Gaming**: I enjoy gaming in my downtime and diving into new virtual worlds.
+
+## Spirituality
+
+Along with my tech interests, I value **spirituality** and stay grounded by reflecting on my personal growth and goals. It keeps me focused and balanced while pursuing new challenges.
+
+## Contact
+
+Feel free to check out my projects, or reach out if you want to connect!  
+- Email: [your.email@example.com](mailto:your.email@example.com)  
+- GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)  
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourlinkedin)
+
+Let's build something awesome together! 😊
+
 
 # 🌐 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ & ᴛᴏᴏʟꜱ
 ---

@@ -17,22 +17,21 @@
 # 👇🏽 ᴀʙᴏᴜᴛ ᴍᴇ
 ---
 
-I’m a undergrad student who loves **full-stack development**, **game dev**, and building creative **software projects**. Currently, I’m working on improving my skills in **full-stack development**, diving into new frameworks, databases, and enhancing my coding expertise.
+I’m a student who’s passionate about **full-stack development**, **game dev**, and building impactful **software projects**. I’m constantly learning new technologies, frameworks, and techniques to improve my skills and build cool, user-friendly apps. From working with front-end frameworks like React to diving into back-end technologies like Node.js and databases, I enjoy the process of turning ideas into real, functional software.
 
-## Hobbies & Interests
+I also value **spirituality**, which helps me stay grounded and focused on my personal growth. It’s my source of balance and keeps me motivated as I work towards becoming the best version of myself, both as a developer and a person.
 
-When I'm not coding, I'm usually:
+### Hobbies & Interests
 
-- ♟️ **Chess**: Strategizing over a game and improving my skills.
-- 💪 **Fitness**: Focusing on my gym routines and staying active.
-- 🍔 **Foodie**: Exploring new food spots and trying out different cuisines.
-- 🎮 **Gaming**: I enjoy gaming in my downtime and diving into new virtual worlds.
+When I'm not coding, I’m likely:
 
-## Spirituality
+- ♟️ **Chess**: Sharpening my strategy and thinking through complex problems.
+- 💪 **Fitness**: Staying active and pushing myself in the gym.
+- 🍔 **Foodie**: Exploring new food spots and enjoying different cuisines.
+- 📚 **Reading**: Diving into books on tech, self-improvement, or just a good story.
+- 🎮 **Gaming**: Escaping into virtual worlds and playing for fun.
 
-Along with my tech interests, I value **spirituality** and stay grounded by reflecting on my personal growth and goals. It keeps me focused and balanced while pursuing new challenges.
-
-## Contact
+### Contact
 
 Feel free to check out my projects, or reach out if you want to connect!  
 - Email: [your.email@example.com](mailto:your.email@example.com)  

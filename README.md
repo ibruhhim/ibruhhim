@@ -17,11 +17,11 @@
 # 👇🏽 ᴀʙᴏᴜᴛ ᴍᴇ
 ---
 
-I’m a student who’s passionate about **full-stack**, **game development**, and building impactful **software projects**. I’m constantly learning new technologies, frameworks, and techniques to improve my skills and build cool, user-friendly apps.
+I'm an undergrad Computer Science student at the University of Toronto. I got into programming and computers when I was a kid, and it’s been a passion ever since. I’m currently specializing in Full Stack Development, but I especially love Front-End work, there’s something about bringing creative user interfaces to life that I really enjoy. When I’m not coding, I’m usually chilling, reflecting on life, or just enjoying a rainy day. I’m all about spirituality and self-reflection, trying to grow both inside and out. 
 
 ### Hobbies
 
-When I'm not coding, I’m likely:
+You'll usually find me:
 
 - ♟️ **Chess**: Sharpening my strategy and thinking through complex problems.
 - 💪 **Fitness**: Staying active and pushing myself in the gym.

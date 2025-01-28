@@ -48,9 +48,9 @@ Let's build something awesome together! 😊
 
 <p align="center">
   <a href="https://github.com/ibruhhim/SMS-Prayer-Reminder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibruhhim&repo=SMS-Prayer-Reminder&theme=dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibruhhim&repo=SMS-Prayer-Reminder&theme=dark&hide_border=true&bg_color=00000000" />
   </a>
   <a href="https://github.com/ibruhhim/TOD-2-Online-Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibruhhim&repo=TOD-2-Online-Game&theme=dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibruhhim&repo=TOD-2-Online-Game&theme=dark&hide_border=true&bg_color=00000000" />
   </a>
 </p>

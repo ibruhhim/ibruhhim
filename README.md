@@ -17,19 +17,16 @@
 # 👇🏽 ᴀʙᴏᴜᴛ ᴍᴇ
 ---
 
-I’m a student who’s passionate about **full-stack development**, **game dev**, and building impactful **software projects**. I’m constantly learning new technologies, frameworks, and techniques to improve my skills and build cool, user-friendly apps. From working with front-end frameworks like React to diving into back-end technologies like Node.js and databases, I enjoy the process of turning ideas into real, functional software.
+I’m a student who’s passionate about **full-stack**, **game development**, and building impactful **software projects**. I’m constantly learning new technologies, frameworks, and techniques to improve my skills and build cool, user-friendly apps.
 
-I also value **spirituality**, which helps me stay grounded and focused on my personal growth. It’s my source of balance and keeps me motivated as I work towards becoming the best version of myself, both as a developer and a person.
-
-### Hobbies & Interests
+### Hobbies
 
 When I'm not coding, I’m likely:
 
 - ♟️ **Chess**: Sharpening my strategy and thinking through complex problems.
 - 💪 **Fitness**: Staying active and pushing myself in the gym.
 - 🍔 **Foodie**: Exploring new food spots and enjoying different cuisines.
-- 📚 **Reading**: Diving into books on tech, self-improvement, or just a good story.
-- 🎮 **Gaming**: Escaping into virtual worlds and playing for fun.
+- 📚 **Reading**: Diving into books on religion, self-improvement, or just a good story.
 
 ### Contact
 

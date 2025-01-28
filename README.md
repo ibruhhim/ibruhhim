@@ -33,9 +33,7 @@ You'll usually find me:
 ### Contact
 
 Feel free to check out my projects, or reach out if you want to connect!  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)  
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourlinkedin)
+- Twitter: [@ibruhhhim](https://x.com/ibruhhhim)  
 
 Let's build something awesome together! 😊
 

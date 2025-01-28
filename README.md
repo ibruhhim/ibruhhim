@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=CFF76C&width=435&lines=Hi!+I'm+Ibrahim+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ibruhhim&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ibruhhim&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ibruhhim&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on full stack development, including React, Node.js, and database integrations.  <br>👯 Looking to collaborate on innovative web applications, game development projects, or tools that improve accessibility in tech.  <br>💬 Ask me about front-end UI development, multiplayer game architecture, or creating smooth, user-friendly web experiences.  <br>⚡ Fun fact: I powerlift in my free time and sketch landscapes to unwind!  <br>
 

@@ -4,14 +4,6 @@
 
 <img src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b9521w7aggjn7t88wujchcacm622h9wfqksstqszf8vf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px">
 
-# ꜱᴛᴀᴛꜱ
----
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ibruhhim&show_icons=true&count_private=true&theme=dark&hide=contribs,issues&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ibruhhim&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6">
-</p>
-
 # ᴀʙᴏᴜᴛ ᴍᴇ
 ---
 

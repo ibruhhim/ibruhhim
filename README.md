@@ -15,7 +15,7 @@
 # ᴀʙᴏᴜᴛ ᴍᴇ
 ---
 
-I'm an undergraduate Computer Science student from Canada. I got into programming and computers as a kid, and it’s been a passion ever since. I’m currently specializing in Full Stack Development, although I’m passionate about all areas of software. There’s just something about bringing creative user interfaces to life that I truly enjoy.
+I'm an undergrad Computer Science student from Canada. I got into programming and computers as a kid, and it’s been a passion ever since. I’m currently specializing in Full Stack Development, although I’m passionate about all areas of software. There’s just something about bringing creative user interfaces to life that I truly enjoy.
 
 When I’m not coding, I’m usually chilling, reflecting on life, or just enjoying a rainy day. I’m all about spirituality and self-reflection, trying to grow both inside and out. 
 

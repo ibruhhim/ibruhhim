@@ -24,16 +24,15 @@ When I’m not coding, I’m usually chilling, reflecting on life, or just enjoy
 
 You'll usually find me:
 
-- 💪 **Fitness**: Staying active and pushing myself in the gym.
-- 🍔 **Foodie**: Exploring new food spots and enjoying different cuisines.
-- 📚 **Reading**: Diving into books on religion, self-improvement, or just a good story.
+- **Fitness**: Staying active and pushing myself in the gym.
+- **Foodie**: Exploring new food spots and enjoying different cuisines.
+- **Reading**: Diving into books on religion, self-improvement, or just a good story.
 
 ### Contact
 
-Feel free to check out my projects, or reach out if you want to connect!  
-- Twitter: [@ibruhhhim](https://x.com/ibruhhhim)  
+Feel free to check out my projects, or reach out if you want to connect! ibrahim.ellahi@mail.utoronto.ca  
 
-Let's build something awesome together! 😊
+Let's build something awesome together!
 
 
 # ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ & ᴛᴏᴏʟꜱ

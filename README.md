@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=56F774&center=true&vCenter=true&width=435&lines=Hi!+I'm+Ibrahim.;Welcome+to+my+page!)](https://git.io/typing-svg)
 
-<img src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b9521w7aggjn7t88wujchcacm622h9wfqksstqszf8vf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px">
-
 # ᴀʙᴏᴜᴛ ᴍᴇ
 ---
 
